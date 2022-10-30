@@ -9,8 +9,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url(./../public/1626781328_17-kartinkin-com-p-list-tetradi-v-lineiku-fon-krasivo-18.jpg);
-  background-position: center;
+  background-image: url(./../public/image.jpg);
+  background-position: fixed;
   background-repeat: no-repeat;
   background-size: cover;
 }
